@@ -23,6 +23,4 @@ N/A
 Please refer to the license in the repo. 
 ---
 
-```md
-    ![alt text](assets/images/01-html-css-git-challenge-demo.png)
-    ```
+![Image of finished website](assets/images/01-html-css-git-challenge-demo.png)
