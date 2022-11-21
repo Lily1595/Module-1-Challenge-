@@ -10,6 +10,8 @@ N/A
 
 ## Usage
 
+Link to deployed application: https://lily1595.github.io/Module-1-Challenge-/
+
 Please click on the tabs at the top to navigate to the relevant pages on the site. 
 
 ## Credits
@@ -21,4 +23,6 @@ N/A
 Please refer to the license in the repo. 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+```md
+    ![alt text](assets/images/01-html-css-git-challenge-demo.png)
+    ```
