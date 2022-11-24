@@ -1,4 +1,4 @@
-/* Margin and padding set to zero */
+/* Setting default margin and padding to zero */
 * {
     box-sizing:border-box;
     margin:0;
